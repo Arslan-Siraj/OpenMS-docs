@@ -29,3 +29,11 @@ WebApps
         :columns: 12
 
         A universal metabolomics tool
+
+    .. grid-item-card:: SagePTMScanner
+        :img-top: /_images/webapps/ptmscanner.png
+        :link: https://abi-services.cs.uni-tuebingen.de/SagePTMScanner/
+        :link-type: url
+        :columns: 12
+
+        A proteomics search engine Sage in OpenMS framework
